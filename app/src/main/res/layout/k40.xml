@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/grid_item_label"
+    android:layout_width="wrap_content"
+    android:layout_height="60dp"
+    android:gravity="center"
+    android:textColor="#02AF03"
+    android:textSize="20dp"
+    android:paddingLeft="20dip"
+    android:paddingRight="20dip"
+    android:typeface="monospace">
+
+</TextView>
